@@ -1,90 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ae6af,100:6C63FF&height=220&section=header&text=Jang%20Gyeongmin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20who%20loves%20building%20things&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6AE,50:32D6B2,100:6C63FF&height=230&section=header&text=JANG%20GYEONGMIN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%90%B9%20Developer%20who%20loves%20building%20things&descAlignY=56&descSize=18"/>
 
-### 🐾 코딩을 좋아하는 쿼카 개발자
+<img src="https://github.com/l1lsang.png" width="125" style="border-radius:50%"/>
 
-**Web · Unity · Embedded · Backend**
+# 🐹 Hello, I'm Quokka!
 
-> 새로운 걸 만들고, 망가뜨리고, 디버깅하면서 성장합니다.
-> **디버깅도 경험이다!**
+### 코딩을 좋아하는 장경민입니다.
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0AE6AF&center=true&vCenter=true&width=650&lines=Web+Developer+%F0%9F%8C%90;Unity+Game+Developer+%F0%9F%8E%AE;Embedded+%26+IoT+Explorer+%F0%9F%94%8C;I+love+building+things+from+ideas+%F0%9F%92%A1;Build.+Break.+Debug.+Learn.+Repeat.+%F0%9F%90%B9" alt="Typing SVG"/>
+</a>
 
 <br/>
 
 <a href="mailto:jkm0831123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-jkm0831123%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-jkm0831123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/l1lsang">
+<img src="https://img.shields.io/badge/GitHub-l1lsang-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+<br/>
+
 ---
 
-## 🐹 About Me
+## `> whoami`
+
+```text
+             ___
+          .-'   '-.
+        .'  ◕   ◕  '.
+       /      ᴥ      \
+      |    \_____/    |
+       \             /
+        '._       _.'
+           '-----'
+          /       \
+         🐾       🐾
+
+        QUOKKA.DEV
+```
 
 ```ts
 const quokka = {
-  name: "장경민",
-  role: "Computer Engineering Student",
-  university: "Hansung University",
+    name: "장경민",
+    nickname: "쿼카 🐹",
 
-  interests: [
-    "Web Development",
-    "Game Development",
-    "Embedded Systems",
-    "Backend",
-    "Mathematics & Research"
-  ],
+    university: "Hansung University",
+    major: "Computer Engineering",
 
-  mindset: "디버깅도 경험이다!",
+    interests: [
+        "🌐 Web Development",
+        "🎮 Game Development",
+        "🔌 Embedded & IoT",
+        "🤖 Backend & Automation",
+        "🧠 Mathematics & Research"
+    ],
+
+    currentlyLearning: [
+        "React & TypeScript",
+        "Unity & Unreal Engine",
+        "C++",
+        "ESP32",
+        "Mathematics"
+    ],
+
+    philosophy: "디버깅도 경험이다!"
 };
 ```
 
-저는 **아이디어를 실제 서비스와 프로그램으로 만드는 과정**을 좋아합니다.
+<br/>
 
-웹사이트부터 게임, Discord Bot, IoT 시스템까지
-분야를 가리지 않고 직접 설계하고 구현하며 배우고 있습니다.
-
-단순히 **작동하는 코드**를 넘어서
-사용하기 좋고, 유지보수하기 좋고, 오래 살아남는 서비스를 만드는 개발자가 되고 싶습니다.
+> ### 💭 아이디어를 실제로 작동하는 것으로 만드는 순간을 좋아합니다.
+>
+> 웹, 게임, Discord Bot, IoT까지 분야를 가리지 않고
+> **직접 만들고 → 부수고 → 디버깅하고 → 다시 만드는 과정**을 즐깁니다.
+>
+> 단순히 `작동하는 코드`를 넘어
+> **사람이 실제로 사용할 수 있는 서비스**를 만드는 개발자가 되고 싶습니다.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Dream Defenders
+<h3 align="center">📍 Spotit</h3>
 
-**Unity Game**
+<div align="center">
 
-Unity와 C#으로 개발한 게임 프로젝트입니다.
+### Map-based Social Platform
 
-* Unity 기반 게임 시스템 구현
-* 플레이어 / 적 / 전투 로직
-* UI 및 게임 상태 관리
-* 객체 간 상호작용 구현
+</div>
 
-`Unity` `C#` `Game Development`
+지도 위에 자신의 장소와 경험을 기록하고 공유하는
+**지도 기반 SNS 서비스**
+
+#### ✨ Key Features
+
+* 🗺️ 지도 기반 콘텐츠 탐색
+* 📍 다양한 형태의 커스텀 핀
+* 👥 사용자 중심 장소 공유
+* 🔥 Firebase 기반 실시간 데이터
+* 📱 반응형 Web UI
+
+#### 🛠 Stack
+
+`React` `TypeScript` `Firebase` `Maps`
+
+<div align="center">
+
+<a href="https://github.com/l1lsang/spotit">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📍 Spotit
+<h3 align="center">🎮 Dream Defenders</h3>
 
-**Map-based Social Platform**
+<div align="center">
 
-지도 위의 장소와 경험을 공유하는
-**지도 기반 SNS 서비스**입니다.
+### Unity Game
 
-* 지도 기반 사용자 콘텐츠
-* 다양한 형태의 커스텀 핀
-* Firebase 기반 데이터 관리
-* 사용자 중심 인터랙션 설계
+</div>
 
-`React` `TypeScript` `Firebase` `Maps API`
+Unity를 사용하여 제작한
+**게임 개발 프로젝트**
+
+#### ✨ Key Features
+
+* ⚔️ 플레이어 / 적 전투 시스템
+* 🎯 게임 상태 및 로직 관리
+* 🖥️ 게임 UI 구현
+* 🧩 객체 간 상호작용
+* 🎮 Unity 기반 게임 시스템
+
+#### 🛠 Stack
+
+`Unity` `C#` `Game Development`
+
+<div align="center">
+
+<a href="https://github.com/l1lsang?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 </td>
 </tr>
@@ -92,39 +163,71 @@ Unity와 C#으로 개발한 게임 프로젝트입니다.
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 Hansung Space
+<h3 align="center">🏫 Hansung Space</h3>
 
-**Smart Space Reservation System**
+<div align="center">
 
-한성대학교 공간의 예약과
-실시간 사용 상태 확인을 위한 시스템입니다.
+### Smart Space Reservation
 
-* 공간 예약 시스템
-* 실시간 점유 상태 관리
-* 센서 기반 공간 감지
-* Web ↔ IoT 연동 구조
+</div>
 
-`React` `Firebase` `ESP32` `IoT`
+한성대학교 공간 예약과
+**실시간 공간 사용 상태 확인을 위한 시스템**
+
+#### ✨ Key Features
+
+* 📅 공간 예약 시스템
+* 👀 실시간 공간 점유 확인
+* 📡 센서 기반 공간 감지
+* 🔌 Web ↔ IoT 연결
+* 🔥 실시간 데이터 관리
+
+#### 🛠 Stack
+
+`Web` `Firebase` `ESP32` `IoT`
+
+<div align="center">
+
+<a href="https://github.com/l1lsang/hsp">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💰 Discord Economy Bot
+<h3 align="center">💰 Discord Economy Bot</h3>
 
-**Discord Economy Game**
+<div align="center">
 
-Discord 안에서 경제 활동을 즐길 수 있는
-게임형 봇 프로젝트입니다.
+### Economy Game Platform
 
-* 가상 화폐 시스템
-* 주식 / 경제 시스템
-* 게임 데이터 관리
-* Discord API 연동
+</div>
+
+Discord 안에서 경제 활동을 즐기는
+**게임형 경제 시스템**
+
+#### ✨ Key Features
+
+* 💵 가상 화폐 시스템
+* 📈 가상 주식 시스템
+* 🎣 경제형 미니게임
+* 🤖 Discord API 연동
+* 💾 사용자 데이터 관리
+
+#### 🛠 Stack
 
 `Node.js` `Discord.js` `Firebase`
 
-[🔗 Repository](YOUR_GITHUB_LINK)
+<div align="center">
+
+<a href="https://github.com/l1lsang/ganade">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 </td>
 </tr>
@@ -132,116 +235,227 @@ Discord 안에서 경제 활동을 즐길 수 있는
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 
-<div align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts&perline=7"/>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<br/><br/>
 
-</div>
+### 🌐 Web Development
 
-### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,firebase,vercel&perline=7"/>
 
-<div align="left">
+<br/><br/>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+### 🎮 Game Development
 
-</div>
+<img src="https://skillicons.dev/icons?i=unity,unreal&perline=5"/>
 
-### 🎮 Game & Embedded
+<br/><br/>
 
-<div align="left">
+### 🔌 Embedded & Tools
 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-
-</div>
-
-### 🔧 Tools
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode&perline=6"/>
 
 </div>
 
 ---
 
-## 🧪 Currently Exploring
+# 🧭 What I'm Exploring
 
-```text
-🌐 Web        → React / TypeScript / Firebase
-🎮 Game       → Unity / Unreal Engine / C++
-🔌 Embedded   → ESP32 / Sensors / IoT
-🧠 Research   → Mathematics × Programming
-```
+<table align="center">
+<tr>
+<td align="center" width="180">
 
-제가 모르는 분야라도
-**“일단 만들어보자”**에서 시작하는 편입니다.
+### 🌐 WEB
 
----
+React
+TypeScript
+Firebase
 
-## 📈 GitHub
+</td>
 
-<div align="center">
+<td align="center" width="180">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=l1lsang&show_icons=true&hide_border=true&count_private=true"/>
+### 🎮 GAME
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1lsang&layout=compact&hide_border=true"/>
+Unity
+Unreal Engine
+C++
 
-</div>
+</td>
 
----
+<td align="center" width="180">
 
-## 🌱 My Developer Philosophy
+### 🔌 EMBEDDED
 
-> **Build. Break. Debug. Learn. Repeat.**
+ESP32
+Sensors
+IoT
 
-완벽하게 알고 시작하기보다
-직접 만들면서 배우는 것을 좋아합니다.
+</td>
 
-실패한 코드도, 오래 걸린 디버깅도,
-결국 다음 프로젝트를 더 잘 만들게 해주는 경험이라고 생각합니다.
+<td align="center" width="180">
 
-### `디버깅도 경험이다! 🐾`
+### 🧠 RESEARCH
 
----
+Mathematics
+Algorithms
+Experiment
 
-<div align="center">
-
-### 🐹 Thanks for visiting!
-
-**재미있는 것을 만들고 있다면 언제든지 이야기해주세요.**
-
-📫 **[jkm0831123@gmail.com](mailto:jkm0831123@gmail.com)**
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0ae6af&height=120&section=footer"/>
+<div align="center">
+
+### `while(alive)`
+
+```cpp
+while (alive)
+{
+    build();
+    breakThings();
+    debug();
+    learn();
+    repeat();
+}
+```
 
 </div>
 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=l1lsang&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1lsang&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=l1lsang&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=l1lsang&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=l1lsang&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/l1lsang/l1lsang/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/l1lsang/l1lsang/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/l1lsang/l1lsang/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🧩 How I Think
+
+<div align="center">
+
+### `IDEA`
+
+⬇️
+
+### `BUILD`
+
+⬇️
+
+### `ERROR`
+
+⬇️
+
+### `DEBUG`
+
+⬇️
+
+### `WHY???`
+
+⬇️
+
+### `OH`
+
+⬇️
+
+### `LEARN`
+
+⬇️
+
+### `REBUILD`
+
+</div>
+
+<br/>
+
+> ## `"디버깅도 경험이다."`
+>
+> 오류가 없는 개발보다
+> **오류에서 이유를 찾아가는 개발**을 좋아합니다.
+>
+> 모르는 기술이라도 일단 만들어보고,
+> 실패한 코드까지 다음 프로젝트의 경험으로 가져갑니다.
+
+---
+
+# 🌱 Developer Philosophy
+
+<div align="center">
+
+### BUILD · BREAK · DEBUG · LEARN · REPEAT
+
+<br/>
+
+```text
+아이디어가 있으면 만들어 봅니다.
+
+모르면 찾아봅니다.
+
+안 되면 디버깅합니다.
+
+그래도 안 되면 더 깊게 파봅니다.
+
+그리고 결국,
+
+다음에는 조금 더 잘 만듭니다.
+```
+
+### 🐹 `quokka@github:~$ keep_building_`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0AE6AF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub+%F0%9F%90%B9;See+you+in+the+next+commit+%F0%9F%9A%80"/>
+
+<br/><br/>
+
+### 📫 Contact
+
+<a href="mailto:jkm0831123@gmail.com">
+<img src="https://img.shields.io/badge/Let's_Talk-jkm0831123%40gmail.com-0AE6AF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:32D6B2,100:00E6AE&height=130&section=footer"/>
+
+</div>
